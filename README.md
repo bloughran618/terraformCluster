@@ -21,3 +21,6 @@ This line is used to scan the code, figure out what providers are being used, an
 ### Cleanup
 
 `terraform destroy`
+
+#### Ref.
+https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
